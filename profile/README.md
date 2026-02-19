@@ -18,9 +18,6 @@
 
 💊 **[FirstClaim](https://tryfirstclaim.com)** — AI billing agent. Clinical notes in, validated claims out. Powered by Claude Opus 4.6.
 
-📋 **PriorAuth** — Prior authorization powered by Verity and FirstClaim. Criteria matching, approval prediction, letter generation. *Coming soon.*
-
-🩺 **MedFlow** — AI-powered SOAP note generation. *Coming soon.*
 
 ### SDKs
 
