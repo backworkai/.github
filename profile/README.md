@@ -14,9 +14,9 @@
 
 ### Products
 
-🔍 **[Verity](https://backworkai.com)** — Coverage intelligence. Instant access to 19,000+ Medicare coverage policies, plus commercial payers. Structured data, not PDFs.
+🔍 **[Verity](https://backworkai.com)** — Coverage intelligence. Medicare, commercial, and Medicaid policies — structured data, not PDFs.
 
-💊 **[FirstClaim](https://tryfirstclaim.com)** — AI billing agent. Clinical notes in, validated claims out. Powered by Claude Opus 4.6.
+💊 **[FirstClaim](https://tryfirstclaim.com)** — AI billing agent. Clinical notes in, validated claims out.
 
 
 ### SDKs
